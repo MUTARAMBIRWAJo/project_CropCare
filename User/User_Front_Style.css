@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/*body{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}*/
+.header{
+    height: 100px;
+    display: flex;
+    background-color: green;
+}
+.header h4{
+    margin-left: 500px;
+    margin-bottom: 2px;
+    float: left;
+    margin-top: 80px;
+    color: white;
+    
+}
+.header #UserNames{
+    margin-left: 500px;
+    margin-bottom: 10px;
+    margin-top: 80px;
+    color: rgb(20, 216, 207);
+
+}
+left-nav{
+    display: inline-block;
+    padding: 50px;
+    
+}
+ul{
+    display: inline-block;
+    padding: 50px;
+    font-size: larger;
+    box-sizing: border-box;
+    box-shadow: inset 20px 20px 100px 20px green;
+   
+}
+ul li{
+    padding: 30px;
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+    background-color: green;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+}
+ul li a:hover{
+    position: relative;
+    background-color: gray;
+
+}
+ul li a:visted{
+    position: relative;
+    background-color: gray;
+
+}
+ul li a:active{
+    background-color: rgb(20, 216, 207;
+}
+
+
+/*------------------ Media----------------------*/
+@media screen, (min-width: 0px) and (min-height: 10px) {
+    
+}

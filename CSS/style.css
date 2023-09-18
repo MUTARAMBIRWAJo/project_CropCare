@@ -1,0 +1,16 @@
+<style>
+body {background-color: dodgerblue;}
+h1   {
+  color: whitesmoke;
+   }
+p    {color: red;
+}
+a {
+  padding: 2px;
+  text-decoration: none;
+}
+.Div {
+  border: 5px outset red;
+  background-color: lightblue;
+  text-align: center;
+}
